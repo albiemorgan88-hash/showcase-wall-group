@@ -33,6 +33,8 @@ Phil Patterson
 Blue Canvas AI
 bluecanvas.ai
 
-**[LINK TO SHOWCASE GOES HERE]**
+**Showcase Link:** https://albiemorgan88-hash.github.io/showcase-wall-group/
+
+(Note: GitHub Pages may take 5-10 minutes to fully deploy)
 
 P.S. - We can have your first AI system live within 30 days. Happy to start with whichever solution delivers the biggest immediate impact for your operation.
